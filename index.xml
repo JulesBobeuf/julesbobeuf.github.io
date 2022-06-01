@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jules BOBEUF e-portfolio</title>
+    <link>https://julesbobeuf.github.io/</link>
+    <description>Recent content on Jules BOBEUF e-portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 17:12:30 +0200</lastBuildDate><atom:link href="https://julesbobeuf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier Projet De 2022</title>
+      <link>https://julesbobeuf.github.io/projets/premier-projet-de-2022/</link>
+      <pubDate>Wed, 04 May 2022 17:12:30 +0200</pubDate>
+      
+      <guid>https://julesbobeuf.github.io/projets/premier-projet-de-2022/</guid>
+      <description>Nouveau projet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ligula vitae justo
+Titre de niveau 3 Proin egestas interdum tincidunt. Sed a tellus tempor, accumsan sem eget, sagittis orci. Vivamus atAliquam erat volutpat. Sed a tempor erat. Donec porttitor ut ante quis bibendum. Mauris suscipit pha
+Titre de niveau 3 bis In sit amet tortor ultricies, tempor mi at, eleifend eros. Curabitur sit amet lectus eget magna molDonec vitae est sapien.</description>
+    </item>
+    
+    <item>
+      <title>Projet Site Web</title>
+      <link>https://julesbobeuf.github.io/projets/projet-site-web/</link>
+      <pubDate>Wed, 04 May 2022 17:12:30 +0200</pubDate>
+      
+      <guid>https://julesbobeuf.github.io/projets/projet-site-web/</guid>
+      <description>Nouveau projet </description>
+    </item>
+    
+    <item>
+      <title>Mon Premier Article</title>
+      <link>https://julesbobeuf.github.io/blog/mon-premier-article/</link>
+      <pubDate>Wed, 27 Apr 2022 17:16:17 +0200</pubDate>
+      
+      <guid>https://julesbobeuf.github.io/blog/mon-premier-article/</guid>
+      <description>COUCOUUUU</description>
+    </item>
+    
+  </channel>
+</rss>

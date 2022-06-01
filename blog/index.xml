@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jules BOBEUF e-portfolio</title>
+    <link>https://julesbobeuf.github.io/blog/</link>
+    <description>Recent content in Blogs on Jules BOBEUF e-portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 17:16:17 +0200</lastBuildDate><atom:link href="https://julesbobeuf.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Article</title>
+      <link>https://julesbobeuf.github.io/blog/mon-premier-article/</link>
+      <pubDate>Wed, 27 Apr 2022 17:16:17 +0200</pubDate>
+      
+      <guid>https://julesbobeuf.github.io/blog/mon-premier-article/</guid>
+      <description>COUCOUUUU</description>
+    </item>
+    
+  </channel>
+</rss>
